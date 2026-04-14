@@ -54,6 +54,8 @@ Currently, I am transitioning into Cyber Security and Backend Development.
 ## 📫 Contact Me
 - Email: abdallahemam88@gmail.com  
 
+https://www.linkedin.com/in/abdallah-emam-75508b258
+
 ---
 
 🔥 This repository documents my journey from beginner to professional in Cyber Securit
