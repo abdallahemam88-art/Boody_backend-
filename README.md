@@ -1,13 +1,59 @@
-# Boody_backend-
-Backend and security practice projects
-# Boody Security Labs
+# 👨‍💻 Abdallah Emam – Cyber Security Journey
 
-This repository contains my journey in learning Cyber Security.
+Welcome to my cybersecurity learning repository 🚀  
 
-## Topics:
-- Linux
-- Networking
-- Web Security
+## 🧠 About Me
+I am a Security Systems Maintenance Supervisor with strong hands-on experience in:
+- CCTV Systems  
+- Access Control Systems  
+- Fire Alarm Systems  
+- Networking & Troubleshooting  
 
-## Labs:
-Coming soon...
+Currently, I am transitioning into Cyber Security and Backend Development.
+
+---
+
+## 🎯 أهدافي
+- Become a professional Ethical Hacker  
+- Build strong knowledge in Networking & Security  
+- Work on real-world security projects  
+
+---
+
+## 🛠️ Skills & Tools
+- Linux (Ubuntu / Kali Linux)  
+- Networking Fundamentals  
+- Basic Python  
+- Security Tools (Nmap, Wireshark, Burp Suite)  
+
+---
+
+## 📚 What I'm Learning Now
+- Linux Basics  
+- Networking (TCP/IP, Ports, DNS)  
+- Web Security Fundamentals  
+
+---
+
+## 🧪 Labs & Practice
+| Lab | Description | Status |
+|-----|------------|--------|
+| Basic Network Scan | Using Nmap | 🔄 In Progress |
+| HTTP Analysis | Using Wireshark | ⏳ Coming Soon |
+| Web Login Testing | Using Burp Suite | ⏳ Coming Soon |
+
+---
+
+## 📈 Future Plans
+- Advanced Web Hacking  
+- API Security Testing  
+- Bug Bounty Hunting  
+
+---
+
+## 📫 Contact Me
+- Email: abdallahemam88@gmail.com  
+
+---
+
+🔥 This repository documents my journey from beginner to professional in Cyber Securit
